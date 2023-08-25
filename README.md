@@ -14,7 +14,7 @@ Before you proceed, ensure you have the following:
 ## Installation Steps
 
 1. **Clone or Download the Repository:**
-   - Visit the [GitHub repository](https://github.com/makuachteny/ld-ggl-extension) where your Google Lead Extension is hosted.
+   - Visit the [GitHub repository](https://github.com/makuachteny/ld-ggl-extension) where the Google Lead Extension is hosted.
    - Click on the "Code" button and select "Download ZIP" or use Git to clone the repository to your computer.
 
 2. **Extract the Files (if downloaded as ZIP):**
