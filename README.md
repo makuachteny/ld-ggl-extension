@@ -1,5 +1,5 @@
 ---
-title: Google Lead Extension - Chrome Installation and Usage Guide
+Google Lead Extension - Chrome Installation and Usage Guide
 ---
 
 Welcome to the guide for installing and using the Google Lead Extension on your Chrome browser. This extension allows you to efficiently collect and manage leads from your Google Ads campaigns. Follow these steps to get started:
